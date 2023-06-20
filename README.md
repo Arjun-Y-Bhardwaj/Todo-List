@@ -12,8 +12,7 @@ A todo list made using HTML, CSS and JAVASCRIPT.
 - Delete an item
 
 # Try it here
-
-todo-ayb.netlify.app
+https://todo-ayb.netlify.app/
 
 ## Screenshots
 
