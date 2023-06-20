@@ -11,8 +11,9 @@ A todo list made using HTML, CSS and JAVASCRIPT.
 - Strikethrough an item
 - Delete an item
 
+# Try it here
 
-
+todo-ayb.netlify.app
 
 ## Screenshots
 
